@@ -1,0 +1,6 @@
+{
+  "name": "AX-01 Voominight Defense",
+  "description": "Retro sci-fi space combat arcade game featuring the AX-01 Voominight craft, procedural defense waves, weapon upgrades, synthesizer audio, and local high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
